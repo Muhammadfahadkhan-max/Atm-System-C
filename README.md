@@ -1,4 +1,4 @@
-# 🏦 ATM System (C Project)
+# 🏦 ATM System (C- Project)
 
 ## Description
 Simple ATM simulation system built in C programming language.
